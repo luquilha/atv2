@@ -1,0 +1,121 @@
+body{
+    background-color: rgb(219, 219, 219);
+}
+#d1{
+border:15;
+background-color: rgb(240, 215, 185);
+box-shadow: 2px 40px 80px 1px rgb(247, 219, 186);
+text-align: center;
+width: 500px;
+position: absolute;
+left: 50%;
+transform: translate(-50%);
+height: 140%;
+top: 0%;
+
+}
+#s1{
+position: absolute;
+top: 5%;
+transform: translate(-5%,);
+left: 30%;
+
+}
+#s2{
+position: absolute;
+top: 14%;
+transform: translate(-12%);
+left: 41%;
+}
+#s3{
+position: absolute;
+top:24%;
+left: 38%;
+}
+p{
+    color: rgb(240, 215, 185);;
+}
+#p1{color: black;
+position: absolute;
+top: 6%;
+left: 32%;
+}
+#d11{
+background-color: rgb(167, 164, 164);
+padding: 6%;
+width: 160px;
+height: 3px;
+position: absolute;
+top: 4%;
+left: 29%;
+}  
+#p2{
+position: absolute;
+color: black;
+top: 15%;
+left: 38%;
+}
+#d22{
+
+    background-color: rgb(167, 164, 164);
+    padding: 5%;
+    width: 170px;
+    height: 5px;
+    position: absolute;
+    top: 14%;
+    left: 29%;
+
+}
+#p3{
+color: black;
+position: absolute;
+top: 25%;
+left: 33%;
+}
+#d33{
+
+
+    background-color: rgb(167, 164, 164);
+    padding: 5%;
+    width: 170px;
+    height: 5px;
+    position: absolute;
+    top: 24%;
+    left: 29%;
+
+}
+#s4{
+ position: absolute;
+top:33%;
+left: 42%;
+}
+#p4{
+color: rgb(0, 0, 0);
+position: absolute;
+top:35%;
+left: 0%;
+}
+#s5{
+position: absolute;
+left: 31%;
+top: 55%;
+}
+#p5{
+position: absolute;
+top: 58%;
+left: 0%;
+color: rgb(0, 0, 0);
+}
+#s6{position: absolute;
+top: 75%;
+left: 22%;
+}
+#p6{
+position: absolute;
+top: 80%;
+left: 0%;
+color: black;
+}
+*{
+    color: black;
+}
